@@ -1,5 +1,5 @@
 {
-  "name": "llı 𝐗. 𝐤𝐲_ley_𝟑. 𝟎 ıll⁩",
+  "name": "Ley-Md",
   "description": "I am Ley-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
  "logo":"https://ibb.co/rGQn78Mm",
  
@@ -20,7 +20,7 @@
 
 
   "BOT_NAME": {
-    "description": "llı 𝐗. 𝐤𝐲_ley_𝟑. 𝟎 ıll⁩",
+    "description": "Ley-Md⁩",
     "required" :false,    
     "value": "Ley-Md"
   }, 
@@ -38,7 +38,7 @@
 
   "env": {
     "OWNER_NAME": {
-      "description": "llı 𝐗. 𝐤𝐲_ley_𝟑. 𝟎 ıll⁩",    
+      "description": "Ley-Md⁩",    
       "value": "Ley:Shy<3",
       "required" :true
     },   
@@ -106,12 +106,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "llı 𝐗. 𝐤𝐲_ley_𝟑. 𝟎 ıll⁩",
+      "value": "Ley-Md⁩",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "llı 𝐗. 𝐤𝐲_ley_𝟑. 𝟎 ıll⁩",
+      "value": "Ley-Md⁩",
       "required": false 
     }
   }, 

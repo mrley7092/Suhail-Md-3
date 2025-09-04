@@ -1,11 +1,11 @@
 {
-  "name": "suhail-whatsapp-bot@1.0.1",
-  "description": "I am Suhail-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
- "logo":"https://telegra.ph/file/9dcef2b49909742db8dbd.jpg",
+  "name": "𝕸!𝖘𝖎𝖊𝖚𝖗 𝖑𝖊𝖞",
+  "description": "I am Ley-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+ "logo":"https://ibb.co/rGQn78Mm",
  
-  "old__logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "old__logo": "https://ibb.co/rGQn78Mm",
+  "keywords": ["whatsappbot", "leyMd", "ley Md bot", "Ley-Md", "LeyMdWhatsaooBot", "LeyWaBot","LeyMD","Ley Md Whatsapp Bot","multi device"],
+  "success_url": "/ley/",
   "app_url": "/qr/",
   "stack":"container",
 
@@ -20,9 +20,9 @@
 
 
   "BOT_NAME": {
-    "description": " NAME FOR BOT",
+    "description": " 𝕸!𝖘𝖎𝖊𝖚𝖗 𝖑𝖊𝖞",
     "required" :false,    
-    "value": "Suhail-Md"
+    "value": "Ley-Md"
   }, 
   "MSGS_IN_LOG": {
     "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -38,14 +38,14 @@
 
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",    
-      "value": "Suhail:Shy<3",
+      "description": "llı 𝐗. 𝐤𝐲_ley_𝟑. 𝟎 ıll⁩",    
+      "value": "Ley:Shy<3",
       "required" :true
     },   
      
     "CAN_WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
+      "value": "false",
       "required" :false
     },
      
@@ -79,7 +79,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "35164252,31118037"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -106,12 +106,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "𝕸!𝖘𝖎𝖊𝖚𝖗 𝖑𝖊𝖞",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "𝕸!𝖘𝖎𝖊𝖚𝖗 𝖑𝖊𝖞",
       "required": false 
     }
   }, 

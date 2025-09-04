@@ -1,13 +1,13 @@
 # SUHAIL-MD (V3)
 <p align="center">
-<a href="https://github.com/SuhailTechInfo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mrley7092"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
 
 
   <p align="center">
-<a href="https://github.com/SuhailTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/SuhailTechInfo?color=blue&style=flat-square"></a>
-<a href="https://github.com/SuhailTechInfo/Suhail-Md-3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md-3?color=blue&style=flat-square"></a>
-<a href="https://github.com/SuhailTechInfo/Suhail-Md-3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md-3?color=blue&style=flat-square"></a>
-<a href="https://github.com/SuhailTechInfo/Suhail-Md-3/"><img title="Size" src="https://img.shields.io/github/repo-size/SuhailTechInfo/Suhail-Md-3?style=flat-square&color=green"></a>
+<a href="https://github.com/mrley7092/followers"><img title="Followers" src="https://img.shields.io/github/followers/SuhailTechInfo?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrley7092/Suhail-Md-3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md-3?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrley7092/Suhail-Md-3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md-3?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrley7092/Suhail-Md-3/"><img title="Size" src="https://img.shields.io/github/repo-size/SuhailTechInfo/Suhail-Md-3?style=flat-square&color=green"></a>
 <a href="https://github.com/SuhailTechInfo/Suhail-Md-3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
@@ -202,13 +202,14 @@ npm start
  
 <h2 align="center">  NOTICE </h2>
 ---
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Ley-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use Ley-Md at your own risk by keeping this warning in mind.*
  
 
 - Star ⭐ repo if you like this bot.
 --------
+
 
 
 

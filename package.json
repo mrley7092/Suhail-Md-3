@@ -1,7 +1,7 @@
 {
-   "name": "suhail-md-3",
+   "name": "ley-md-3",
    "version": "3.0.1",
-   "status": "testing suhail-md-3",
+   "status": "testing ley-md-3",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
    "type": "commonjs",
@@ -87,3 +87,4 @@
    },
    "homepage": "https://github.com/SuhailTechInfo/suhaily-whatsapp-bot#readme"
 }
+
